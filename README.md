@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Denim022
 - 👀 I’m interested in Game Development/Game modding/Gaming
-- 🌱 I’m currently learning ...
-- My Discord username: denim.d    
+- 👉 My Discord username: denim.d    
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I'm a Doge
 
