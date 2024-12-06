@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👯 I’m looking to collaborate on **with anybody who has python experience**
+- 👯 I’m looking to collaborate on **N/A**
 
 - 📫 How to reach me **abhimanyuroy022@gmail.com**
 
