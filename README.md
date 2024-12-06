@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu</h1>
 <h3 align="center">A passionate developer from INDIA</h3>
 
+- 🏫 I'm A **Highschool student**
+
 - 🔭 I’m currently working on **N/A**
 
 - 🌱 I’m currently learning **SQL**
