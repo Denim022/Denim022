@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu</h1>
 <h3 align="center">A passionate developer from INDIA</h3>
 
+- 👦🏻 Pronouns: **He/Him**
+
 - 🏫 I'm A **Highschool student at Vidya Valley**
 
 - 🔭 I’m currently working on **Improving the Downloads File Sorter**
