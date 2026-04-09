@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Improving the Downloads File Sorter**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Advanced Python**
 
 - 🧑‍🧒‍🧒 I’m looking to collaborate on **N/A**
 
